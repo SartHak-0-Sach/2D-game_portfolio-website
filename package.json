@@ -1,5 +1,5 @@
 {
-  "name": "2d-game-portfolio-website",
+  "name": "2d-portfolio-kaboom",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +9,8 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "terser": "^5.30.4",
-    "vite": "^5.2.0"
+    "terser": "^5.27.1",
+    "vite": "^5.1.0"
   },
   "dependencies": {
     "kaboom": "^3000.1.17"
