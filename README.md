@@ -1,4 +1,4 @@
-# Developer portfolio that's a game
+# Gamified developer portfolio website
 
 ## Welcome! 👋
 
@@ -27,9 +27,9 @@
 
 Users should be able to:
 
-- Explore a 2D game environment that serves as a portfolio website
-- Interact with objects like a degree on the wall and a resume on the table
-- Experience the site seamlessly on both desktop and mobile devices
+- Explore a 2D game environment that serves as a portfolio website.
+- Interact with objects like a degree on the wall and a resume on the table.
+- Experience the site seamlessly on both desktop and mobile devices.
 
 ### How to setup the project
 
@@ -46,7 +46,7 @@ To set up the project locally, follow these steps:
 
 ### Screenshot
 
-![Design preview](./developerportfoliothumbnail.png)
+![Screenshot](./developerportfoliothumbnail.png)
 
 ### Links
 
